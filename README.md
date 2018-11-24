@@ -30,7 +30,7 @@ Or:
 
 ## Development
 
- The gem is hosted on[gemfury.com](https://gemfury.com), the source code is hosted on github.
+ The gem is hosted on [gemfury.com](https://gemfury.com), the source code is hosted on github.
 
 ## Contributing
 
